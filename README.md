@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahmielibol
-- 👀 I’m interested in dynamical systems and computational neuroscience.
+- 👀 I’m interested in dynamical systems and computational neuroscience. 
 
 
 <!---
